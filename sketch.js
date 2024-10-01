@@ -43,8 +43,6 @@
 //   rect(mouseX - 22.5, mouseY + 60, 25, 40);
 // }
 
-//POCHITA
-
 function setup() {
   createCanvas(windowWidth, windowHeight);
   background(0);
